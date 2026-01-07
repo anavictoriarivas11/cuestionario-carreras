@@ -1,0 +1,605 @@
+[
+  {
+    "id": "2026-01-07T00:55:43",
+    "title": "busqueda mama",
+    "answers": {
+      "1": [
+        "C",
+        "D"
+      ],
+      "2": [
+        "B",
+        "C"
+      ],
+      "3": [
+        "A"
+      ],
+      "4": [
+        "A",
+        "C"
+      ],
+      "5": [
+        "C"
+      ],
+      "6": [
+        "B"
+      ],
+      "7": [
+        "B"
+      ],
+      "8": [
+        "A"
+      ],
+      "9": [
+        "D"
+      ],
+      "10": [
+        "B"
+      ],
+      "11": [
+        "C"
+      ],
+      "12": [
+        "A"
+      ],
+      "13": [
+        "B"
+      ],
+      "14": [
+        "B"
+      ],
+      "15": [
+        "B",
+        "C"
+      ],
+      "16": [
+        "B",
+        "C"
+      ],
+      "17": [
+        "D"
+      ],
+      "18": [
+        "B",
+        "C"
+      ]
+    },
+    "rec": {
+      "generated_at": "2026-01-07T00:54:45",
+      "raw": "{\n  \"perfil_resumen\": {\n    \"fortalezas\": [\"Empatía y escucha activa\", \"Capacidad creativa y artística\", \"Preferencia por ambientes organizados y con reglas claras\"],\n    \"preferencias\": [\"Ayudar o acompañar a otros\", \"Trabajar solo/a y concentrado/a\", \"Expresarse o comunicar ideas\"],\n    \"a_evitar\": [\"Tomar decisiones importantes\", \"Uso excesivo de tecnología\"]\n  },\n  \"top5\": [\n    {\n      \"carrera\": \"Psicopedagogía\",\n      \"en_que_consiste\": \"Estudio y acompañamiento de los procesos de aprendizaje en niños, adolescentes o adultos, detectando dificultades y potenciando capacidades.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"escuela\", \"consultorio\", \"hospital\", \"atencion_al_publico\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Permite ayudar y acompañar a otros desde la escucha y la empatía\",\n        \"Favorece el trabajo en ambientes estructurados y con reglas claras\",\n        \"Ofrece tareas creativas en el diseño de estrategias de aprendizaje\"\n      ],\n      \"primeros_pasos\": [\n        \"Buscar charlas o testimonios de psicopedagogos\",\n        \"Investigar planes de estudio y salida laboral\",\n        \"Participar como voluntario/a en actividades educativas o de apoyo escolar\"\n      ]\n    },\n    {\n      \"carrera\": \"Diseño Gráfico\",\n      \"en_que_consiste\": \"Creación de piezas visuales para comunicar ideas y mensajes de forma creativa, tanto en medios digitales como impresos.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"estudio\", \"oficina\", \"remoto\", \"taller\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Permite expresarse y comunicar ideas visualmente\",\n        \"Ofrece espacios de trabajo concentrado y creativo\",\n        \"No requiere uso intensivo de tecnología avanzada\"\n      ],\n      \"primeros_pasos\": [\n        \"Aprender conceptos básicos de diseño con recursos gratuitos\",\n        \"Realizar pequeños proyectos personales o para conocidos\",\n        \"Consultar a diseñadores sobre el día a día de la profesión\"\n      ]\n    },\n    {\n      \"carrera\": \"Musicoterapia\",\n      \"en_que_consiste\": \"Utilización de la música como herramienta terapéutica para acompañar procesos emocionales, sociales o de aprendizaje en diferentes edades.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"hospital\", \"escuela\", \"consultorio\", \"taller\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Integra creatividad artística y vocación de ayuda\",\n        \"Permite acompañar personas desde la empatía y la escucha\",\n        \"Ofrece entornos organizados y estructurados\"\n      ],\n      \"primeros_pasos\": [\n        \"Investigar sobre la formación y rol del musicoterapeuta\",\n        \"Participar en talleres de musicoterapia como observador/a\",\n        \"Contactar a profesionales del área para conocer su experiencia\"\n      ]\n    },\n    {\n      \"carrera\": \"Profesorado en Artes Visuales\",\n      \"en_que_consiste\": \"Formación para enseñar artes plásticas y visuales en escuelas, talleres o espacios culturales, promoviendo la expresión y el desarrollo creativo.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"escuela\", \"taller\", \"estudio\", \"atencion_al_publico\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Permite combinar creatividad con vocación docente y acompañamiento\",\n        \"Ofrece trabajo con reglas claras y estructura escolar\",\n        \"Brinda espacios para expresarse y ayudar a otros\"\n      ],\n      \"primeros_pasos\": [\n        \"Asistir a talleres de arte y educación\",\n        \"Hablar con docentes de arte sobre su experiencia laboral\",\n        \"Investigar los requisitos de ingreso a profesorados\"\n      ]\n    },\n    {\n      \"carrera\": \"Terapia Ocupacional\",\n      \"en_que_consiste\": \"Acompañamiento a personas con dificultades físicas, mentales o sociales para mejorar su autonomía e integración, utilizando actividades prácticas y creativas.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"hospital\", \"consultorio\", \"escuela\", \"taller\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Permite ayudar a otros desde la empatía y la creatividad\",\n        \"Favorece el trabajo en entornos organizados y colaborativos\",\n        \"No implica altas responsabilidades de decisión\"\n      ],\n      \"primeros_pasos\": [\n        \"Leer experiencias de terapeutas ocupacionales\",\n        \"Realizar tareas de voluntariado en centros de rehabilitación\",\n        \"Consultar planes de estudio y requisitos de la carrera\"\n      ]\n    }\n  ],\n  \"extra\": {\n    \"tipo_de_perfil\": \"Creativo, empático y orientado a la ayuda, con preferencia por entornos estructurados y poca exposición a decisiones críticas.\",\n    \"consejo_practico\": \"Antes de elegir, buscá experiencias directas (charlas, talleres, voluntariado) para confirmar tu afinidad con cada área.\"\n  },\n  \"disclaimer\": \"Orientativo: no reemplaza orientación vocacional profesional.\"\n}",
+      "parsed": {
+        "perfil_resumen": {
+          "fortalezas": [
+            "Empatía y escucha activa",
+            "Capacidad creativa y artística",
+            "Preferencia por ambientes organizados y con reglas claras"
+          ],
+          "preferencias": [
+            "Ayudar o acompañar a otros",
+            "Trabajar solo/a y concentrado/a",
+            "Expresarse o comunicar ideas"
+          ],
+          "a_evitar": [
+            "Tomar decisiones importantes",
+            "Uso excesivo de tecnología"
+          ]
+        },
+        "top5": [
+          {
+            "carrera": "Psicopedagogía",
+            "en_que_consiste": "Estudio y acompañamiento de los procesos de aprendizaje en niños, adolescentes o adultos, detectando dificultades y potenciando capacidades.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "escuela",
+              "consultorio",
+              "hospital",
+              "atencion_al_publico"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Permite ayudar y acompañar a otros desde la escucha y la empatía",
+              "Favorece el trabajo en ambientes estructurados y con reglas claras",
+              "Ofrece tareas creativas en el diseño de estrategias de aprendizaje"
+            ],
+            "primeros_pasos": [
+              "Buscar charlas o testimonios de psicopedagogos",
+              "Investigar planes de estudio y salida laboral",
+              "Participar como voluntario/a en actividades educativas o de apoyo escolar"
+            ]
+          },
+          {
+            "carrera": "Diseño Gráfico",
+            "en_que_consiste": "Creación de piezas visuales para comunicar ideas y mensajes de forma creativa, tanto en medios digitales como impresos.",
+            "salida_laboral": "media",
+            "entorno_trabajo": [
+              "estudio",
+              "oficina",
+              "remoto",
+              "taller"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Permite expresarse y comunicar ideas visualmente",
+              "Ofrece espacios de trabajo concentrado y creativo",
+              "No requiere uso intensivo de tecnología avanzada"
+            ],
+            "primeros_pasos": [
+              "Aprender conceptos básicos de diseño con recursos gratuitos",
+              "Realizar pequeños proyectos personales o para conocidos",
+              "Consultar a diseñadores sobre el día a día de la profesión"
+            ]
+          },
+          {
+            "carrera": "Musicoterapia",
+            "en_que_consiste": "Utilización de la música como herramienta terapéutica para acompañar procesos emocionales, sociales o de aprendizaje en diferentes edades.",
+            "salida_laboral": "media",
+            "entorno_trabajo": [
+              "hospital",
+              "escuela",
+              "consultorio",
+              "taller"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Integra creatividad artística y vocación de ayuda",
+              "Permite acompañar personas desde la empatía y la escucha",
+              "Ofrece entornos organizados y estructurados"
+            ],
+            "primeros_pasos": [
+              "Investigar sobre la formación y rol del musicoterapeuta",
+              "Participar en talleres de musicoterapia como observador/a",
+              "Contactar a profesionales del área para conocer su experiencia"
+            ]
+          },
+          {
+            "carrera": "Profesorado en Artes Visuales",
+            "en_que_consiste": "Formación para enseñar artes plásticas y visuales en escuelas, talleres o espacios culturales, promoviendo la expresión y el desarrollo creativo.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "escuela",
+              "taller",
+              "estudio",
+              "atencion_al_publico"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Permite combinar creatividad con vocación docente y acompañamiento",
+              "Ofrece trabajo con reglas claras y estructura escolar",
+              "Brinda espacios para expresarse y ayudar a otros"
+            ],
+            "primeros_pasos": [
+              "Asistir a talleres de arte y educación",
+              "Hablar con docentes de arte sobre su experiencia laboral",
+              "Investigar los requisitos de ingreso a profesorados"
+            ]
+          },
+          {
+            "carrera": "Terapia Ocupacional",
+            "en_que_consiste": "Acompañamiento a personas con dificultades físicas, mentales o sociales para mejorar su autonomía e integración, utilizando actividades prácticas y creativas.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "hospital",
+              "consultorio",
+              "escuela",
+              "taller"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Permite ayudar a otros desde la empatía y la creatividad",
+              "Favorece el trabajo en entornos organizados y colaborativos",
+              "No implica altas responsabilidades de decisión"
+            ],
+            "primeros_pasos": [
+              "Leer experiencias de terapeutas ocupacionales",
+              "Realizar tareas de voluntariado en centros de rehabilitación",
+              "Consultar planes de estudio y requisitos de la carrera"
+            ]
+          }
+        ],
+        "extra": {
+          "tipo_de_perfil": "Creativo, empático y orientado a la ayuda, con preferencia por entornos estructurados y poca exposición a decisiones críticas.",
+          "consejo_practico": "Antes de elegir, buscá experiencias directas (charlas, talleres, voluntariado) para confirmar tu afinidad con cada área."
+        },
+        "disclaimer": "Orientativo: no reemplaza orientación vocacional profesional."
+      }
+    }
+  },
+  {
+    "id": "2026-01-07T00:09:11",
+    "answers": {
+      "1": [
+        "B",
+        "C",
+        "D"
+      ],
+      "2": [
+        "A",
+        "D"
+      ],
+      "3": [
+        "D"
+      ],
+      "4": [
+        "A"
+      ],
+      "5": [
+        "A"
+      ],
+      "6": [
+        "A",
+        "D"
+      ],
+      "7": [
+        "A"
+      ],
+      "8": [
+        "A"
+      ],
+      "9": [
+        "A"
+      ],
+      "10": [
+        "B",
+        "D"
+      ],
+      "11": [
+        "A",
+        "D"
+      ],
+      "12": [
+        "A",
+        "D"
+      ],
+      "13": [
+        "D"
+      ],
+      "14": [
+        "A",
+        "D"
+      ],
+      "15": [
+        "A",
+        "D"
+      ],
+      "16": [
+        "A",
+        "C",
+        "D"
+      ],
+      "17": [
+        "E"
+      ],
+      "18": [
+        "A",
+        "D"
+      ]
+    },
+    "rec": {
+      "generated_at": "2026-01-07T00:08:29",
+      "raw": "{\n  \"perfil_resumen\": {\n    \"fortalezas\": [\"Pensamiento lógico y analítico\", \"Capacidad de organización y liderazgo\", \"Interés y facilidad por la tecnología y los números\"],\n    \"preferencias\": [\"Resolver problemas técnicos y organizativos\", \"Trabajar en oficina o remoto\", \"Tomar decisiones y coordinar equipos\"],\n    \"a_evitar\": []\n  },\n  \"top5\": [\n    {\n      \"carrera\": \"Ingeniería en Sistemas de Información\",\n      \"en_que_consiste\": \"Formación en el diseño, desarrollo y gestión de sistemas informáticos para resolver necesidades de empresas y organizaciones.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"oficina\", \"remoto\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Aprovecha el interés por la tecnología y la lógica\",\n        \"Permite roles de liderazgo y gestión de proyectos\",\n        \"Alta demanda y estabilidad laboral en Argentina\"\n      ],\n      \"primeros_pasos\": [\n        \"Investigar planes de estudio y requisitos de ingreso\",\n        \"Realizar cursos introductorios de programación (por ejemplo, Python o Java)\",\n        \"Explorar plataformas de aprendizaje online como Coursera o edX\"\n      ]\n    },\n    {\n      \"carrera\": \"Licenciatura en Administración de Empresas\",\n      \"en_que_consiste\": \"Capacita para gestionar organizaciones, liderar equipos y optimizar procesos administrativos y de negocio.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"oficina\", \"remoto\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Gusta coordinar y liderar personas\",\n        \"Interés en la toma de decisiones y gestión organizativa\",\n        \"Ofrece crecimiento económico y estabilidad\"\n      ],\n      \"primeros_pasos\": [\n        \"Consultar planes de estudio y perfiles de egresados\",\n        \"Leer libros básicos de administración y management\",\n        \"Buscar pasantías o voluntariados administrativos\"\n      ]\n    },\n    {\n      \"carrera\": \"Ingeniería Industrial\",\n      \"en_que_consiste\": \"Se orienta a optimizar procesos productivos y de servicios, combinando conocimientos técnicos, matemáticos y de gestión.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"oficina\", \"campo\", \"remoto\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Interés en mejorar procesos y resolver problemas complejos\",\n        \"Permite liderar equipos y proyectos\",\n        \"Versatilidad para trabajar en diferentes sectores\"\n      ],\n      \"primeros_pasos\": [\n        \"Informarse sobre la carrera y su campo laboral\",\n        \"Practicar resolución de problemas lógicos y matemáticos\",\n        \"Visitar industrias o entrevistar a profesionales del área\"\n      ]\n    },\n    {\n      \"carrera\": \"Contador Público\",\n      \"en_que_consiste\": \"Especialización en administración financiera, auditoría, impuestos y gestión contable de organizaciones.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"oficina\", \"remoto\", \"atencion_al_publico\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Facilidad con los números y análisis de datos\",\n        \"Permite estabilidad laboral y crecimiento económico\",\n        \"Posibilidad de asesorar y organizar procesos financieros\"\n      ],\n      \"primeros_pasos\": [\n        \"Revisar el plan de estudios y materias clave\",\n        \"Aprender conceptos básicos de contabilidad online\",\n        \"Buscar oportunidades de pasantías en estudios contables\"\n      ]\n    },\n    {\n      \"carrera\": \"Licenciatura en Ciencia de Datos\",\n      \"en_que_consiste\": \"Formación para analizar grandes volúmenes de datos y extraer información útil para la toma de decisiones empresariales.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"oficina\", \"remoto\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Aprovecha el gusto por la tecnología y los números\",\n        \"Permite resolver desafíos complejos mediante lógica y análisis\",\n        \"Alta demanda en sectores empresariales y tecnológicos\"\n      ],\n      \"primeros_pasos\": [\n        \"Realizar cursos básicos de análisis de datos y programación (Python, SQL)\",\n        \"Explorar recursos gratuitos como DataCamp o Khan Academy\",\n        \"Participar en comunidades online de ciencia de datos\"\n      ]\n    }\n  ],\n  \"extra\": {\n    \"tipo_de_perfil\": \"Analítico, orientado a la gestión y la tecnología, con potencial de liderazgo\",\n    \"consejo_practico\": \"Aprovechá tu interés por la lógica y la organización para explorar primero cursos cortos y charlas introductorias; así podrás confirmar el enfoque que más te motiva antes de comprometerte con una carrera larga.\"\n  },\n  \"disclaimer\": \"Orientativo: no reemplaza orientación vocacional profesional.\"\n}",
+      "parsed": {
+        "perfil_resumen": {
+          "fortalezas": [
+            "Pensamiento lógico y analítico",
+            "Capacidad de organización y liderazgo",
+            "Interés y facilidad por la tecnología y los números"
+          ],
+          "preferencias": [
+            "Resolver problemas técnicos y organizativos",
+            "Trabajar en oficina o remoto",
+            "Tomar decisiones y coordinar equipos"
+          ],
+          "a_evitar": []
+        },
+        "top5": [
+          {
+            "carrera": "Ingeniería en Sistemas de Información",
+            "en_que_consiste": "Formación en el diseño, desarrollo y gestión de sistemas informáticos para resolver necesidades de empresas y organizaciones.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "oficina",
+              "remoto"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Aprovecha el interés por la tecnología y la lógica",
+              "Permite roles de liderazgo y gestión de proyectos",
+              "Alta demanda y estabilidad laboral en Argentina"
+            ],
+            "primeros_pasos": [
+              "Investigar planes de estudio y requisitos de ingreso",
+              "Realizar cursos introductorios de programación (por ejemplo, Python o Java)",
+              "Explorar plataformas de aprendizaje online como Coursera o edX"
+            ]
+          },
+          {
+            "carrera": "Licenciatura en Administración de Empresas",
+            "en_que_consiste": "Capacita para gestionar organizaciones, liderar equipos y optimizar procesos administrativos y de negocio.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "oficina",
+              "remoto"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Gusta coordinar y liderar personas",
+              "Interés en la toma de decisiones y gestión organizativa",
+              "Ofrece crecimiento económico y estabilidad"
+            ],
+            "primeros_pasos": [
+              "Consultar planes de estudio y perfiles de egresados",
+              "Leer libros básicos de administración y management",
+              "Buscar pasantías o voluntariados administrativos"
+            ]
+          },
+          {
+            "carrera": "Ingeniería Industrial",
+            "en_que_consiste": "Se orienta a optimizar procesos productivos y de servicios, combinando conocimientos técnicos, matemáticos y de gestión.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "oficina",
+              "campo",
+              "remoto"
+            ],
+            "viajes": "medio",
+            "por_que_encaja": [
+              "Interés en mejorar procesos y resolver problemas complejos",
+              "Permite liderar equipos y proyectos",
+              "Versatilidad para trabajar en diferentes sectores"
+            ],
+            "primeros_pasos": [
+              "Informarse sobre la carrera y su campo laboral",
+              "Practicar resolución de problemas lógicos y matemáticos",
+              "Visitar industrias o entrevistar a profesionales del área"
+            ]
+          },
+          {
+            "carrera": "Contador Público",
+            "en_que_consiste": "Especialización en administración financiera, auditoría, impuestos y gestión contable de organizaciones.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "oficina",
+              "remoto",
+              "atencion_al_publico"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Facilidad con los números y análisis de datos",
+              "Permite estabilidad laboral y crecimiento económico",
+              "Posibilidad de asesorar y organizar procesos financieros"
+            ],
+            "primeros_pasos": [
+              "Revisar el plan de estudios y materias clave",
+              "Aprender conceptos básicos de contabilidad online",
+              "Buscar oportunidades de pasantías en estudios contables"
+            ]
+          },
+          {
+            "carrera": "Licenciatura en Ciencia de Datos",
+            "en_que_consiste": "Formación para analizar grandes volúmenes de datos y extraer información útil para la toma de decisiones empresariales.",
+            "salida_laboral": "alta",
+            "entorno_trabajo": [
+              "oficina",
+              "remoto"
+            ],
+            "viajes": "bajo",
+            "por_que_encaja": [
+              "Aprovecha el gusto por la tecnología y los números",
+              "Permite resolver desafíos complejos mediante lógica y análisis",
+              "Alta demanda en sectores empresariales y tecnológicos"
+            ],
+            "primeros_pasos": [
+              "Realizar cursos básicos de análisis de datos y programación (Python, SQL)",
+              "Explorar recursos gratuitos como DataCamp o Khan Academy",
+              "Participar en comunidades online de ciencia de datos"
+            ]
+          }
+        ],
+        "extra": {
+          "tipo_de_perfil": "Analítico, orientado a la gestión y la tecnología, con potencial de liderazgo",
+          "consejo_practico": "Aprovechá tu interés por la lógica y la organización para explorar primero cursos cortos y charlas introductorias; así podrás confirmar el enfoque que más te motiva antes de comprometerte con una carrera larga."
+        },
+        "disclaimer": "Orientativo: no reemplaza orientación vocacional profesional."
+      }
+    },
+    "title": "busqueda ana"
+  },
+  {
+    "id": "2026-01-07T00:04:49",
+    "answers": {
+      "1": [
+        "A"
+      ],
+      "2": [
+        "C"
+      ],
+      "3": [
+        "C"
+      ],
+      "4": [
+        "C"
+      ],
+      "5": [
+        "B"
+      ],
+      "6": [
+        "A"
+      ],
+      "7": [
+        "D"
+      ],
+      "8": [
+        "A"
+      ],
+      "9": [
+        "B"
+      ],
+      "10": [
+        "C"
+      ],
+      "11": [
+        "C"
+      ],
+      "12": [
+        "C"
+      ],
+      "13": [
+        "E"
+      ],
+      "14": [
+        "C"
+      ],
+      "15": [
+        "C"
+      ],
+      "16": [
+        "C"
+      ],
+      "17": [
+        "B"
+      ],
+      "18": [
+        "C"
+      ]
+    },
+    "rec": {
+      "generated_at": "2026-01-05T17:40:30",
+      "raw": "{\n  \"perfil_resumen\": {\n    \"fortalezas\": [\n      \"Creatividad y pensamiento original\",\n      \"Resolución práctica de problemas\",\n      \"Capacidad de alternar trabajo solo y en equipo\"\n    ],\n    \"preferencias\": [\n      \"Ambientes al aire libre o en movimiento\",\n      \"Expresión y comunicación de ideas\",\n      \"Actividades prácticas y creativas\"\n    ],\n    \"a_evitar\": [\n      \"Mucho tiempo frente a la computadora\",\n      \"Tareas numéricas o tecnológicas profundas\"\n    ]\n  },\n  \"top5\": [\n    {\n      \"carrera\": \"Diseño Gráfico orientado a espacios públicos\",\n      \"en_que_consiste\": \"Crear piezas visuales, murales, señalética y campañas gráficas para espacios urbanos, eventos o instituciones, usando técnicas manuales y digitales básicas.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"al_aire_libre\", \"oficina\", \"remoto\", \"atencion_al_publico\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Permite expresarse creativamente\",\n        \"Incluye trabajo práctico y en movimiento\",\n        \"No requiere profundizar en tecnología avanzada\"\n      ],\n      \"primeros_pasos\": [\n        \"Realizar un curso corto de diseño gráfico o muralismo\",\n        \"Crear un portafolio con proyectos propios o voluntarios\",\n        \"Buscar colaboraciones en centros culturales o municipios\"\n      ]\n    },\n    {\n      \"carrera\": \"Producción de Eventos y Espectáculos\",\n      \"en_que_consiste\": \"Organizar, coordinar y ejecutar eventos culturales, artísticos o sociales, desde recitales hasta ferias, incluyendo logística y ambientación.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"al_aire_libre\", \"oficina\", \"atencion_al_publico\", \"viajes\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Trabajo variado y dinámico, poco sedentario\",\n        \"Requiere creatividad para resolver y ambientar\",\n        \"Permite alternar roles individuales y grupales\"\n      ],\n      \"primeros_pasos\": [\n        \"Asistir a talleres de producción de eventos\",\n        \"Ofrecerse como voluntario/a en eventos locales\",\n        \"Contactar productoras para pasantías o asistente\"\n      ]\n    },\n    {\n      \"carrera\": \"Técnico/a en Escenografía o Vestuario\",\n      \"en_que_consiste\": \"Diseñar, construir y montar escenografías o vestuarios para teatro, cine, TV o eventos, combinando arte y trabajo manual.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"taller\", \"al_aire_libre\", \"teatros\", \"eventos\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Fuerte componente práctico y artístico\",\n        \"Escaso uso de tecnología avanzada\",\n        \"Ambientes cambiantes y colaborativos\"\n      ],\n      \"primeros_pasos\": [\n        \"Hacer un curso corto en escenografía o vestuario\",\n        \"Colaborar en obras escolares, independientes o comunitarias\",\n        \"Armar un portfolio fotográfico de trabajos\"\n      ]\n    },\n    {\n      \"carrera\": \"Guía de Turismo Cultural y Urbano\",\n      \"en_que_consiste\": \"Guiar grupos por circuitos culturales, artísticos o patrimoniales, narrando historias y diseñando recorridos temáticos.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"al_aire_libre\", \"atencion_al_publico\", \"viajes\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Permite comunicar y expresarse creativamente\",\n        \"Trabajo activo, en movimiento y social\",\n        \"No requiere tareas numéricas ni tecnológicas complejas\"\n      ],\n      \"primeros_pasos\": [\n        \"Hacer un curso de guía de turismo cultural\",\n        \"Aprender sobre historia y arte local\",\n        \"Ofrecer recorridos gratuitos para practicar\"\n      ]\n    },\n    {\n      \"carrera\": \"Técnico/a en Fotografía y Comunicación Visual\",\n      \"en_que_consiste\": \"Realizar reportajes, coberturas de eventos, fotografía artística o documental, trabajando en exteriores y con contacto social.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"al_aire_libre\", \"eventos\", \"remoto\", \"atencion_al_publico\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Permite expresarse visualmente y crear estilo propio\",\n        \"Trabajo dinámico y práctico, fuera de la oficina\",\n        \"No requiere matemática ni tecnología avanzada\"\n      ],\n      \"primeros_pasos\": [\n        \"Hacer un curso de fotografía básica\",\n        \"Practicar en eventos o espacios públicos\",\n        \"Crear un perfil en redes para mostrar trabajos\"\n      ]\n    }\n  ],\n  \"extra\": {\n    \"tipo_de_perfil\": \"Creativo/a práctico/a, orientado/a a la acción y la expresión, que prefiere ambientes dinámicos y tareas manuales.\",\n    \"consejo_practico\": \"Buscá experiencias reales (voluntariado, talleres, pasantías) para confirmar tu interés antes de elegir una carrera formal.\"\n  },\n  \"disclaimer\": \"Orientativo: no reemplaza orientación vocacional profesional.\"\n}",
+      "parsed": {
+        "perfil_resumen": {
+          "fortalezas": [
+            "Creatividad y pensamiento original",
+            "Resolución práctica de problemas",
+            "Capacidad de alternar trabajo solo y en equipo"
+          ],
+          "preferencias": [
+            "Ambientes al aire libre o en movimiento",
+            "Expresión y comunicación de ideas",
+            "Actividades prácticas y creativas"
+          ],
+          "a_evitar": [
+            "Mucho tiempo frente a la computadora",
+            "Tareas numéricas o tecnológicas profundas"
+          ]
+        },
+        "top5": [
+          {
+            "carrera": "Diseño Gráfico orientado a espacios públicos",
+            "en_que_consiste": "Crear piezas visuales, murales, señalética y campañas gráficas para espacios urbanos, eventos o instituciones, usando técnicas manuales y digitales básicas.",
+            "salida_laboral": "media",
+            "entorno_trabajo": [
+              "al_aire_libre",
+              "oficina",
+              "remoto",
+              "atencion_al_publico"
+            ],
+            "viajes": "medio",
+            "por_que_encaja": [
+              "Permite expresarse creativamente",
+              "Incluye trabajo práctico y en movimiento",
+              "No requiere profundizar en tecnología avanzada"
+            ],
+            "primeros_pasos": [
+              "Realizar un curso corto de diseño gráfico o muralismo",
+              "Crear un portafolio con proyectos propios o voluntarios",
+              "Buscar colaboraciones en centros culturales o municipios"
+            ]
+          },
+          {
+            "carrera": "Producción de Eventos y Espectáculos",
+            "en_que_consiste": "Organizar, coordinar y ejecutar eventos culturales, artísticos o sociales, desde recitales hasta ferias, incluyendo logística y ambientación.",
+            "salida_laboral": "media",
+            "entorno_trabajo": [
+              "al_aire_libre",
+              "oficina",
+              "atencion_al_publico",
+              "viajes"
+            ],
+            "viajes": "medio",
+            "por_que_encaja": [
+              "Trabajo variado y dinámico, poco sedentario",
+              "Requiere creatividad para resolver y ambientar",
+              "Permite alternar roles individuales y grupales"
+            ],
+            "primeros_pasos": [
+              "Asistir a talleres de producción de eventos",
+              "Ofrecerse como voluntario/a en eventos locales",
+              "Contactar productoras para pasantías o asistente"
+            ]
+          },
+          {
+            "carrera": "Técnico/a en Escenografía o Vestuario",
+            "en_que_consiste": "Diseñar, construir y montar escenografías o vestuarios para teatro, cine, TV o eventos, combinando arte y trabajo manual.",
+            "salida_laboral": "media",
+            "entorno_trabajo": [
+              "taller",
+              "al_aire_libre",
+              "teatros",
+              "eventos"
+            ],
+            "viajes": "medio",
+            "por_que_encaja": [
+              "Fuerte componente práctico y artístico",
+              "Escaso uso de tecnología avanzada",
+              "Ambientes cambiantes y colaborativos"
+            ],
+            "primeros_pasos": [
+              "Hacer un curso corto en escenografía o vestuario",
+              "Colaborar en obras escolares, independientes o comunitarias",
+              "Armar un portfolio fotográfico de trabajos"
+            ]
+          },
+          {
+            "carrera": "Guía de Turismo Cultural y Urbano",
+            "en_que_consiste": "Guiar grupos por circuitos culturales, artísticos o patrimoniales, narrando historias y diseñando recorridos temáticos.",
+            "salida_laboral": "media",
+            "entorno_trabajo": [
+              "al_aire_libre",
+              "atencion_al_publico",
+              "viajes"
+            ],
+            "viajes": "medio",
+            "por_que_encaja": [
+              "Permite comunicar y expresarse creativamente",
+              "Trabajo activo, en movimiento y social",
+              "No requiere tareas numéricas ni tecnológicas complejas"
+            ],
+            "primeros_pasos": [
+              "Hacer un curso de guía de turismo cultural",
+              "Aprender sobre historia y arte local",
+              "Ofrecer recorridos gratuitos para practicar"
+            ]
+          },
+          {
+            "carrera": "Técnico/a en Fotografía y Comunicación Visual",
+            "en_que_consiste": "Realizar reportajes, coberturas de eventos, fotografía artística o documental, trabajando en exteriores y con contacto social.",
+            "salida_laboral": "media",
+            "entorno_trabajo": [
+              "al_aire_libre",
+              "eventos",
+              "remoto",
+              "atencion_al_publico"
+            ],
+            "viajes": "medio",
+            "por_que_encaja": [
+              "Permite expresarse visualmente y crear estilo propio",
+              "Trabajo dinámico y práctico, fuera de la oficina",
+              "No requiere matemática ni tecnología avanzada"
+            ],
+            "primeros_pasos": [
+              "Hacer un curso de fotografía básica",
+              "Practicar en eventos o espacios públicos",
+              "Crear un perfil en redes para mostrar trabajos"
+            ]
+          }
+        ],
+        "extra": {
+          "tipo_de_perfil": "Creativo/a práctico/a, orientado/a a la acción y la expresión, que prefiere ambientes dinámicos y tareas manuales.",
+          "consejo_practico": "Buscá experiencias reales (voluntariado, talleres, pasantías) para confirmar tu interés antes de elegir una carrera formal."
+        },
+        "disclaimer": "Orientativo: no reemplaza orientación vocacional profesional."
+      }
+    },
+    "title": "busqueda vale"
+  }
+]

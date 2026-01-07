@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-01-07T16:21:39",
+  "raw": "{\n  \"perfil_resumen\": {\n    \"fortalezas\": [\n      \"Organización y planificación\",\n      \"Análisis detallado de información\",\n      \"Gestión y toma de decisiones\"\n    ],\n    \"preferencias\": [\n      \"Entornos de taller, laboratorio o estudio\",\n      \"Trabajo flexible e independiente\",\n      \"Combinación de trabajo solo y en equipo\"\n    ],\n    \"a_evitar\": [\n      \"Tareas con mucha tecnología\",\n      \"Trabajo intensivo con números\"\n    ]\n  },\n  \"top5\": [\n    {\n      \"carrera\": \"Gestión Ambiental\",\n      \"en_que_consiste\": \"Consiste en planificar, implementar y supervisar procesos y políticas para el cuidado del medio ambiente en empresas, organismos públicos o consultoras.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"oficina\", \"campo\", \"laboratorio\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Requiere organización y análisis\",\n        \"Involucra trabajo en laboratorio y campo\",\n        \"Permite flexibilidad y autonomía\"\n      ],\n      \"primeros_pasos\": [\n        \"Buscar tecnicaturas o licenciaturas en gestión ambiental\",\n        \"Hacer cursos cortos de medio ambiente o sustentabilidad\",\n        \"Sumarse como voluntario/a en ONGs ambientales\"\n      ]\n    },\n    {\n      \"carrera\": \"Logística y Gestión de Operaciones\",\n      \"en_que_consiste\": \"Se enfoca en organizar, planificar y mejorar procesos de distribución, almacenamiento y producción en empresas.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"oficina\", \"taller\", \"campo\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Requiere organización y gestión de procesos\",\n        \"Alterna entre trabajo en oficina y campo\",\n        \"No es intensivo en tecnología ni números\"\n      ],\n      \"primeros_pasos\": [\n        \"Investigar tecnicaturas en logística o gestión de operaciones\",\n        \"Buscar pasantías en empresas de transporte o logística\",\n        \"Realizar cursos online de gestión de procesos\"\n      ]\n    },\n    {\n      \"carrera\": \"Administración de Instituciones de Salud\",\n      \"en_que_consiste\": \"Implica gestionar recursos, personal y procesos en clínicas, hospitales o centros de salud, sin tareas médicas.\",\n      \"salida_laboral\": \"alta\",\n      \"entorno_trabajo\": [\"hospital\", \"oficina\", \"laboratorio\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Enfocada en la organización y planificación\",\n        \"Permite alternar entre roles administrativos y de campo\",\n        \"No requiere tecnología avanzada ni matemáticas complejas\"\n      ],\n      \"primeros_pasos\": [\n        \"Buscar carreras cortas de administración en salud\",\n        \"Participar en voluntariados en hospitales o clínicas\",\n        \"Hacer cursos de gestión sanitaria\"\n      ]\n    },\n    {\n      \"carrera\": \"Gestión de PyMEs y Emprendimientos\",\n      \"en_que_consiste\": \"Formación para administrar, planificar y mejorar pequeñas y medianas empresas o proyectos propios.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"oficina\", \"taller\", \"remoto\"],\n      \"viajes\": \"bajo\",\n      \"por_que_encaja\": [\n        \"Enfocada en gestión y toma de decisiones\",\n        \"Permite autonomía y flexibilidad\",\n        \"No depende del uso intensivo de tecnología\"\n      ],\n      \"primeros_pasos\": [\n        \"Buscar tecnicaturas en gestión de emprendimientos o PyMEs\",\n        \"Asistir a talleres de emprendedurismo\",\n        \"Unirse a redes de emprendedores locales\"\n      ]\n    },\n    {\n      \"carrera\": \"Técnico/a en Bromatología\",\n      \"en_que_consiste\": \"Controla, organiza y supervisa la calidad e higiene de alimentos en laboratorios, industrias o entes de control.\",\n      \"salida_laboral\": \"media\",\n      \"entorno_trabajo\": [\"laboratorio\", \"industria\", \"campo\"],\n      \"viajes\": \"medio\",\n      \"por_que_encaja\": [\n        \"Trabajo en laboratorio y campo\",\n        \"Requiere análisis y organización\",\n        \"No es dependiente de tecnología avanzada ni números\"\n      ],\n      \"primeros_pasos\": [\n        \"Buscar tecnicaturas en bromatología o control de alimentos\",\n        \"Visitar laboratorios o industrias alimentarias locales\",\n        \"Realizar cursos de manipulación y seguridad alimentaria\"\n      ]\n    }\n  ],\n  \"extra\": {\n    \"tipo_de_perfil\": \"Gestor/a analítico/a con preferencia por entornos prácticos, flexibles y de baja tecnología\",\n    \"consejo_practico\": \"Elegí carreras con materias prácticas y salidas a campo o laboratorio. Aprovechá voluntariados y pasantías para validar tu interés en la gestión y los entornos reales de trabajo.\"\n  },\n  \"disclaimer\": \"Orientativo: no reemplaza orientación vocacional profesional.\"\n}",
+  "parsed": {
+    "perfil_resumen": {
+      "fortalezas": [
+        "Organización y planificación",
+        "Análisis detallado de información",
+        "Gestión y toma de decisiones"
+      ],
+      "preferencias": [
+        "Entornos de taller, laboratorio o estudio",
+        "Trabajo flexible e independiente",
+        "Combinación de trabajo solo y en equipo"
+      ],
+      "a_evitar": [
+        "Tareas con mucha tecnología",
+        "Trabajo intensivo con números"
+      ]
+    },
+    "top5": [
+      {
+        "carrera": "Gestión Ambiental",
+        "en_que_consiste": "Consiste en planificar, implementar y supervisar procesos y políticas para el cuidado del medio ambiente en empresas, organismos públicos o consultoras.",
+        "salida_laboral": "alta",
+        "entorno_trabajo": [
+          "oficina",
+          "campo",
+          "laboratorio"
+        ],
+        "viajes": "medio",
+        "por_que_encaja": [
+          "Requiere organización y análisis",
+          "Involucra trabajo en laboratorio y campo",
+          "Permite flexibilidad y autonomía"
+        ],
+        "primeros_pasos": [
+          "Buscar tecnicaturas o licenciaturas en gestión ambiental",
+          "Hacer cursos cortos de medio ambiente o sustentabilidad",
+          "Sumarse como voluntario/a en ONGs ambientales"
+        ]
+      },
+      {
+        "carrera": "Logística y Gestión de Operaciones",
+        "en_que_consiste": "Se enfoca en organizar, planificar y mejorar procesos de distribución, almacenamiento y producción en empresas.",
+        "salida_laboral": "alta",
+        "entorno_trabajo": [
+          "oficina",
+          "taller",
+          "campo"
+        ],
+        "viajes": "medio",
+        "por_que_encaja": [
+          "Requiere organización y gestión de procesos",
+          "Alterna entre trabajo en oficina y campo",
+          "No es intensivo en tecnología ni números"
+        ],
+        "primeros_pasos": [
+          "Investigar tecnicaturas en logística o gestión de operaciones",
+          "Buscar pasantías en empresas de transporte o logística",
+          "Realizar cursos online de gestión de procesos"
+        ]
+      },
+      {
+        "carrera": "Administración de Instituciones de Salud",
+        "en_que_consiste": "Implica gestionar recursos, personal y procesos en clínicas, hospitales o centros de salud, sin tareas médicas.",
+        "salida_laboral": "alta",
+        "entorno_trabajo": [
+          "hospital",
+          "oficina",
+          "laboratorio"
+        ],
+        "viajes": "bajo",
+        "por_que_encaja": [
+          "Enfocada en la organización y planificación",
+          "Permite alternar entre roles administrativos y de campo",
+          "No requiere tecnología avanzada ni matemáticas complejas"
+        ],
+        "primeros_pasos": [
+          "Buscar carreras cortas de administración en salud",
+          "Participar en voluntariados en hospitales o clínicas",
+          "Hacer cursos de gestión sanitaria"
+        ]
+      },
+      {
+        "carrera": "Gestión de PyMEs y Emprendimientos",
+        "en_que_consiste": "Formación para administrar, planificar y mejorar pequeñas y medianas empresas o proyectos propios.",
+        "salida_laboral": "media",
+        "entorno_trabajo": [
+          "oficina",
+          "taller",
+          "remoto"
+        ],
+        "viajes": "bajo",
+        "por_que_encaja": [
+          "Enfocada en gestión y toma de decisiones",
+          "Permite autonomía y flexibilidad",
+          "No depende del uso intensivo de tecnología"
+        ],
+        "primeros_pasos": [
+          "Buscar tecnicaturas en gestión de emprendimientos o PyMEs",
+          "Asistir a talleres de emprendedurismo",
+          "Unirse a redes de emprendedores locales"
+        ]
+      },
+      {
+        "carrera": "Técnico/a en Bromatología",
+        "en_que_consiste": "Controla, organiza y supervisa la calidad e higiene de alimentos en laboratorios, industrias o entes de control.",
+        "salida_laboral": "media",
+        "entorno_trabajo": [
+          "laboratorio",
+          "industria",
+          "campo"
+        ],
+        "viajes": "medio",
+        "por_que_encaja": [
+          "Trabajo en laboratorio y campo",
+          "Requiere análisis y organización",
+          "No es dependiente de tecnología avanzada ni números"
+        ],
+        "primeros_pasos": [
+          "Buscar tecnicaturas en bromatología o control de alimentos",
+          "Visitar laboratorios o industrias alimentarias locales",
+          "Realizar cursos de manipulación y seguridad alimentaria"
+        ]
+      }
+    ],
+    "extra": {
+      "tipo_de_perfil": "Gestor/a analítico/a con preferencia por entornos prácticos, flexibles y de baja tecnología",
+      "consejo_practico": "Elegí carreras con materias prácticas y salidas a campo o laboratorio. Aprovechá voluntariados y pasantías para validar tu interés en la gestión y los entornos reales de trabajo."
+    },
+    "disclaimer": "Orientativo: no reemplaza orientación vocacional profesional."
+  }
+}

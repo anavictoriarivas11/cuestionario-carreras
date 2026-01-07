@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <title>Resultados</title>
+</head>
+<body class="bg">
+
+  <div class="topbar">
+    <div class="brand">Resultados</div>
+
+    <div class="top-actions">
+      <a class="btn-outline" href="{{ url_for('home') }}">Inicio</a>
+      <a class="btn-outline" href="{{ url_for('saved') }}">Búsquedas guardadas</a>
+
+      {# ✅ Solo mostrar "Guardar búsqueda" si estoy en el flujo normal (rec viene del cache/latest)
+         En la vista guardada, rec suele venir directamente del item guardado. Igual puede aparecer.
+         Si querés forzarlo, desde saved_view podés pasar view_mode="saved".
+      #}
+      {% if view_mode != "saved" %}
+        <form method="post" action="{{ url_for('save_search') }}" style="display:inline;">
+          <button class="btn" type="submit">Guardar búsqueda</button>
+        </form>
+      {% endif %}
+
+      <form method="post" action="{{ url_for('reset') }}" style="display:inline;">
+        <button class="btn-outline" type="submit">Reiniciar</button>
+      </form>
+
+      <a class="btn-outline" href="{{ url_for('logout') }}">Salir</a>
+    </div>
+  </div>
+
+  <div class="card wide">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="alerts">
+          {% for cat, msg in messages %}
+            <div class="alert {{ cat }}">{{ msg }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <h1>Recomendación de carreras (Top 5)</h1>
+    <p class="muted">Generado por un análisis tipo RRHH según tus respuestas.</p>
+
+    {% if rec and rec.parsed and rec.parsed.top5 %}
+      <div class="mini-grid">
+        {% for c in rec.parsed.top5 %}
+          <div class="mini-card">
+            <h2 class="mini-title">{{ loop.index }}. {{ c.carrera }}</h2>
+
+            <p><b>En qué consiste:</b> {{ c.en_que_consiste }}</p>
+            <p><b>Salida laboral:</b> {{ c.salida_laboral }}</p>
+
+            {% if c.entorno_trabajo %}
+              <p><b>Entorno:</b> {{ c.entorno_trabajo | join(", ") }}</p>
+            {% endif %}
+
+            {% if c.viajes %}
+              <p><b>Viajes:</b> {{ c.viajes }}</p>
+            {% endif %}
+
+            {% if c.por_que_encaja %}
+              <p><b>Por qué encaja:</b></p>
+              <ul>
+                {% for r in c.por_que_encaja %}
+                  <li>{{ r }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+
+            {% if c.primeros_pasos %}
+              <p><b>Primeros pasos:</b></p>
+              <ul>
+                {% for s in c.primeros_pasos %}
+                  <li>{{ s }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+
+      <hr style="border:0;border-top:1px solid #223055;margin:18px 0;">
+
+      <h2>Resumen de tu perfil</h2>
+      <p><b>Fortalezas:</b> {{ rec.parsed.perfil_resumen.fortalezas | join(", ") }}</p>
+      <p><b>Preferencias:</b> {{ rec.parsed.perfil_resumen.preferencias | join(", ") }}</p>
+      <p><b>A evitar:</b> {{ rec.parsed.perfil_resumen.a_evitar | join(", ") }}</p>
+
+      <h2>Extra</h2>
+      <p><b>Tipo de perfil:</b> {{ rec.parsed.extra.tipo_de_perfil }}</p>
+      <p><b>Consejo práctico:</b> {{ rec.parsed.extra.consejo_practico }}</p>
+
+      <p class="muted">{{ rec.parsed.disclaimer }}</p>
+
+    {% else %}
+      <div class="alert error">
+        No pude leer el JSON devuelto por el modelo. Te muestro la respuesta cruda:
+      </div>
+      <pre class="pre">{{ rec.raw }}</pre>
+    {% endif %}
+  </div>
+
+  <div class="card wide" style="margin-top:16px;">
+    <h2>Respuestas guardadas</h2>
+
+    <div class="list">
+      {% for a in answers %}
+        <div class="row">
+          <div class="row-q">
+            <div class="row-num">#{{ a.id }}</div>
+            <div class="row-text">{{ a.text }}</div>
+          </div>
+          <div class="pill">
+            <b>{{ a.choice }}</b>
+            {% if a.choice_text %} — {{ a.choice_text }}{% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</body>
+</html>

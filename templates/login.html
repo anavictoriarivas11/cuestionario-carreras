@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <title>Login</title>
+</head>
+<body class="bg">
+
+  <div class="card">
+    <h1>Ingresar</h1>
+    <p class="muted">Demo: <b>ana</b> / <b>ana</b></p>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="alerts">
+          {% for cat, msg in messages %}
+            <div class="alert {{cat}}">{{ msg }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <form method="post" class="form">
+      <label>Usuario</label>
+      <input name="username" placeholder="ana" autocomplete="username" required>
+
+      <label>Contraseña</label>
+      <input name="password" type="password" placeholder="ana" autocomplete="current-password" required>
+
+      <button class="btn" type="submit">Entrar</button>
+    </form>
+  </div>
+
+</body>
+</html>
